@@ -1,1 +1,4 @@
 env/
+__jac_gen__/
+.jac_mypy_cache/
+chroma/
